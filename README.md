@@ -16,7 +16,8 @@
 
 ## 📌 Projects  
 🌟 [**The Prodigy Campus**](https://github.com/LakshmiSusmithaThota/AIOT-Smart-Campus-Automation-) – AIoT-based smart automation  
-🌟 [**Ballot Bridge**](https://github.com/LakshmiSusmithaThota/BallotBridge) – MERN stack online voting system  
+🌟 [**Ballot Bridge**](https://github.com/LakshmiSusmithaThota/
+Ballot-Bridge-Smart-Voting-Backend) – MERN stack online voting system  
 
 ## 🏆 Achievements  
 ✔ **3rd Place** - Hackathon (LBRCE)  
