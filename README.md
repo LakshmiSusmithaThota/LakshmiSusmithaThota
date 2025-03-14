@@ -15,7 +15,7 @@
 🔹 **AIoT & Automation:** OpenCV | Raspberry Pi | Google Sheets API  
 
 ## 📌 Projects  
-🌟 [**The Prodigy Campus**](https://github.com/LakshmiSusmithaThota/ProdigyCampus) – AIoT-based smart automation  
+🌟 [**The Prodigy Campus**](https://github.com/LakshmiSusmithaThota/AIOT-Smart-Campus-Automation-) – AIoT-based smart automation  
 🌟 [**Ballot Bridge**](https://github.com/LakshmiSusmithaThota/BallotBridge) – MERN stack online voting system  
 
 ## 🏆 Achievements  
